@@ -1,5 +1,5 @@
-const assert = require('assert');
+import assert from 'node:assert';
 
 assert.strictEqual(1 + 1, 2);
 
-console.log('Mock tests passed');
+console.log('mock tests passed');
